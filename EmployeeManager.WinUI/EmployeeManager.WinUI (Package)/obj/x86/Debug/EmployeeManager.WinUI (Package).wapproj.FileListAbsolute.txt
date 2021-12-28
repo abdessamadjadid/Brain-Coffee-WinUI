@@ -1,0 +1,53 @@
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\App.xbf
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\MainWindow.xbf
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Controls\HeaderControl.xbf
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Images\logo.png
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.WinUI.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\WinRT.Runtime.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ui.xaml.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.dev.json
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\App.xbf
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Controls\HeaderControl.xbf
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\MainWindow.xbf
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Images\logo.png
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.exe
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\resources.pri
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI (Package).build.appxrecipe
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.ui.xaml.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.AssemblyReference.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CopyComplete
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI.pri.xml
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt
